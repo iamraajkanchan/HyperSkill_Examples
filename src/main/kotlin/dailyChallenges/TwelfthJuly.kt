@@ -1,4 +1,4 @@
-package DailyChallenges
+package dailyChallenges
 
 private const val REPEAT_COUNT: Int = 5
 fun main() {

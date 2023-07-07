@@ -1,4 +1,4 @@
-package Rough
+package rough
 
 class AdmitStudents {
     companion object {

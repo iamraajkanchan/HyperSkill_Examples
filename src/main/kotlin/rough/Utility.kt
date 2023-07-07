@@ -1,6 +1,6 @@
 @file:JvmName("Utility")
 
-package Rough
+package rough
 
 fun greetUser(userName: String) {
     println("Hello $userName")

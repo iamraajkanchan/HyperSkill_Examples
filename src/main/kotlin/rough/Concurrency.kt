@@ -1,4 +1,4 @@
-package Rough
+package rough
 
 fun main() {
     val thread = Thread {
